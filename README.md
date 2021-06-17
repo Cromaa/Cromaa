@@ -1,6 +1,6 @@
 # Hey 👋😄
  
-😀 Hello and welcome to my profile my name is Marcos Gabriel and I am 20 years old, I hope you enjoy my projects. If you have any suggestion come talk to me maybe we can help each other. 
+😀 Hello and welcome to my profile my name is Marcos Gabriel, I hope you enjoy my projects. If you have any suggestion come talk to me maybe we can help each other. 
 🙋‍♂️ I am a Computer Engineering student, and right now my focus is on building mobile apps with React Native, and I always try to bring different features to my knowledge.
 
 **Jesus loves you**
