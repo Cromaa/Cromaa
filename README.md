@@ -6,7 +6,7 @@
 
 **Jesus loves you**
 
-- I am looking for a Intern job to get started on my carrer 
+- I am looking for an Intern job to get started on my carrer 
 
 If you want to meet me reach me on 👇
 
