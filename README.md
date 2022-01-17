@@ -8,7 +8,7 @@
 
 If you want to meet me reach me on 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Gabriel-009FFD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-gabriel-costa-pinto-4879b81ab/)](https://www.linkedin.com/in/marcos-gabriel-costa-pinto-4879b81ab/) [![Instagram Badge](https://img.shields.io/badge/-Dev%20Cromaa-009FFD?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev.cromaa/?hl=pt-br)](https://www.instagram.com/dev.cromaa/?hl=pt-br) 
+[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Gabriel-009FFD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-gabriel-costa-pinto-4879b81ab/)](https://www.linkedin.com/in/marcos-gabriel-costa-pinto-4879b81ab/) 
 
 **Jesus loves you**
 
