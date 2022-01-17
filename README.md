@@ -1,18 +1,16 @@
 # Hey 👋😄
  
-😀 Hello and welcome to my profile my name is Marcos Gabriel, I hope you enjoy my projects. If you have any suggestions come to talk to me maybe we can help each other.
+🙋‍♂️ Aluno de Engenharia da Computação e desenvolvedor de aplicações mobile e web, tenho experiências em projetos acadêmicos e pessoais onde desenvolvi grande parte do meu conhecimento em programação. Busco me adaptar as mudanças pois sem mudança não há progresso.
 
-🙋‍♂️ I am a Computer Engineering student
+💻 Tenho conhecimento em linguagens como C++, C, C#, Python, Arduino, MySql mas meu foco atual é HTML, CSS, JavaScript, TypeScript e React Native sendo essas as linguagens que desenvolvo meus projetos e soluções.
 
-- I am looking for an Intern job to get started on my carrer, but every new experience is welcome.
+💪 Dou meu melhor em cada projeto pois sei que todo esforço irá valer a pena, amo desafios pois cada um deles me faz mais forte!
 
-If you want to meet me reach me on 👇
+Para me conhecer melhor acesse meu LinkedIn 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Gabriel-009FFD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-gabriel-costa-pinto-4879b81ab/)](https://www.linkedin.com/in/marcos-gabriel-costa-pinto-4879b81ab/) 
 
-**Jesus loves you**
-
-🙏 *“Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock."* Matthew 7:24
+**Toda honra e glória ao Senhor 🙏**
 
 <div style="display: inline_block">
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
