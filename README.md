@@ -2,9 +2,11 @@
  
 🙋‍♂️ Aluno de Engenharia da Computação e desenvolvedor de aplicações mobile e web, tenho experiências em projetos acadêmicos e pessoais onde desenvolvi grande parte do meu conhecimento em programação. Busco me adaptar as mudanças pois sem mudança não há progresso.
 
-💻 Tenho conhecimento em linguagens como C++, C, C#, Python, Arduino, MySql mas meu foco atual é HTML, CSS, JavaScript, TypeScript e React Native sendo essas as linguagens que desenvolvo meus projetos e soluções.
+💻 Tenho conhecimento em linguagens como C++, C, C#, Python, Arduino, MySql, HTML, CSS mas meu foco atual é em JavaScript, TypeScript, ReactJS e React Native sendo essas as linguagens que desenvolvo meus projetos e soluções.
 
 💪 Dou meu melhor em cada projeto pois sei que todo esforço irá valer a pena, amo desafios pois cada um deles me faz mais forte!
+
+Toda honra e glória ao Senhor 🙏
 
 Para me conhecer melhor acesse meu LinkedIn 👇
 
